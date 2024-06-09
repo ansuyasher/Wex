@@ -1,0 +1,6 @@
+@WexAssessmentApi_HostAddress = http://localhost:5011
+
+GET {{WexAssessmentApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
